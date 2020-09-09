@@ -1,7 +1,7 @@
 package basic100;
 
-public class Input_1001 {
+public class Output_1004 {
     public static void main(String[] args) {
-        System.out.println("Hello");
+        System.out.println("'Hello'");
     }
 }
