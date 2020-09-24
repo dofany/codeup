@@ -1,11 +1,11 @@
 package basic100;
 
-import java.util.*;
+import java.util.Scanner;
 
-public class InputOuput_1010 {
+public class InputOutput_1033 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
-        System.out.println(a);
+        System.out.printf("%x".toUpperCase(),a);
     }
 }
