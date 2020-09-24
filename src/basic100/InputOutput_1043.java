@@ -2,10 +2,11 @@ package basic100;
 
 import java.util.Scanner;
 
-public class InputOutput_1041 {
+public class InputOutput_1043 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        char c = sc.next().charAt(0);
-        System.out.println((char)(c+1));
+        int a = sc.nextInt();
+        int b = sc.nextInt();
+        System.out.println(a%b);
     }
 }
