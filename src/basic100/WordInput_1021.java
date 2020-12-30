@@ -2,7 +2,7 @@ package basic100;
 
 import java.util.Scanner;
 
-public class InputOutput_1021 {
+public class WordInput_1021 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         char[] c = new char[51];
