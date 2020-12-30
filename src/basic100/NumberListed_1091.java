@@ -2,7 +2,7 @@ package basic100;
 
 import java.util.Scanner;
 
-public class InputOutput_1091 {
+public class NumberListed_1091 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         long a = sc.nextLong();
