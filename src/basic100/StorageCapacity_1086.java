@@ -2,7 +2,7 @@ package basic100;
 
 import java.util.Scanner;
 
-public class InputOutput_1086 {
+public class StorageCapacity_1086 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         long w = sc.nextInt();
