@@ -2,7 +2,7 @@ package basic100;
 
 import java.util.Scanner;
 
-public class InputOutput_1097 {
+public class GoEgg_1097 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
