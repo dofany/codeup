@@ -2,7 +2,7 @@ package basic100;
 
 import java.util.Scanner;
 
-public class InputOutput_1022 {
+public class StringInput_1022 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String s = sc.nextLine();
