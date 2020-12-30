@@ -3,7 +3,7 @@ package basic100;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
-public class InputOutput_1023 {
+public class FloatInput_1023 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String s = sc.nextLine();
