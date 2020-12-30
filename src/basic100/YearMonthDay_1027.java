@@ -2,7 +2,7 @@ package basic100;
 
 import java.util.Scanner;
 
-public class InputOutput_1027 {
+public class YearMonthDay_1027 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String s = sc.nextLine();
