@@ -2,7 +2,7 @@ package basic100;
 
 import java.util.Scanner;
 
-public class InputOutput_1093 {
+public class AttendanceNum1_1093 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int array[] = new int[24];
