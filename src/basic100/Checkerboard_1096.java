@@ -2,7 +2,7 @@ package basic100;
 
 import java.util.Scanner;
 
-public class InputOutput_1096 {
+public class Checkerboard_1096 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int array[][] = new int[20][20];
