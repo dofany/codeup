@@ -3,7 +3,7 @@ package basic100;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
-public class InputOutput_1019 {
+public class YearMonthDay_1019 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String date = sc.nextLine();
