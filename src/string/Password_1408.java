@@ -1,4 +1,4 @@
-package OneArray;
+package string;
 
 import java.util.Scanner;
 
