@@ -10,10 +10,10 @@ public class TwoArray_3_4_1479 {
         int a[][] = new int[101][101];
         int count = 1;
 
-        for (int i = 0; i < n + m; i++) {
-            for (int j = n-1; j >= 0; j--) {
+        for (int i = n+m; i >= 0; i--) {
+            for (int j = 0; j < n; j++) {
                 for (int k = 0; k < m; k++) {
-                    if (j-k+m == i) {
+                    if (j+k == i) {
                         a[j][k] = count++;
                     }
                 }
